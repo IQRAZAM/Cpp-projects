@@ -15,16 +15,16 @@ protected:              //Encapsulation
 public:
 	 int Totalcriminal = 10;
     regcriminal() {
-    Name[0] = "qadeer"; Age[0] = 34; Reg[0] = 1; Date[0] = 2; Month[0] = 3; Year[0] = 2014; Crime[0] = "murder"; Penalty[0] ="life imprisonment";
-    Name[1] = "irfan"; Age[1] = 22; Reg[1] = 34; Date[1] = 4; Month[1] = 8; Year[1] = 2018; Crime[1] = "Robery"; Penalty[1] = "two year in prison";
-    Name[2] = "ateeq"; Age[2] = 18; Reg[2] = 44; Date[2] = 7; Month[2] = 4; Year[2] = 2004; Crime[2] = "drug offense"; Penalty[2] = "two lac ";
-    Name[3] = "saad"; Age[3] = 45; Reg[3] = 45; Date[3] = 5; Month[3] = 5; Year[3] = 2023; Crime[3] = "Fraud";Penalty[3] = "50 lac";
-    Name[4] = "hafeez"; Age[4] = 30; Reg[4] = 453; Date[4] = 30; Month[4] = 2; Year[4] = 2011; Crime[4] = "kidnapping"; Penalty[4]="1 year in prsion" ;
-    Name[5] = "adeel"; Age[5] = 28; Reg[5] = 437; Date[5] = 20; Month[5] = 3; Year[5] = 2024; Crime[5] = "vandalism";  Penalty[5] = "30 lac";
-    Name[6] = "daniyal"; Age[6] = 22; Reg[6] = 675; Date[6] = 16; Month[6] = 4; Year[6] = 2022; Crime[6] = "perjury";  Penalty[6] = "5 years in prison";
-    Name[7] = "haris"; Age[7] = 19; Reg[7] = 823; Date[7] = 19; Month[7] = 4; Year[7] = 2020; Crime[7] = "pickpocket";  Penalty[7] = "60 thousand";
-    Name[8] = "sajjad"; Age[8] = 50; Reg[8] = 987; Date[8] = 25; Month[8] = 10; Year[8] = 2005; Crime[8] = "robery";  Penalty[8] = "20 lacs";
-    Name[9] = "waleed"; Age[9] = 24; Reg[9] = 678; Date[9] = 8; Month[9] = 12; Year[9] = 2008; Crime[9] = "domestic violence";  Penalty[9] = "6 years in prison";
+    Name[0] = "Oliver"; Age[0] = 34; Reg[0] = 1; Date[0] = 2; Month[0] = 3; Year[0] = 2014; Crime[0] = "murder"; Penalty[0] ="life imprisonment";
+    Name[1] = "Harry"; Age[1] = 22; Reg[1] = 34; Date[1] = 4; Month[1] = 8; Year[1] = 2018; Crime[1] = "Robery"; Penalty[1] = "two year in prison";
+    Name[2] = "George "; Age[2] = 18; Reg[2] = 44; Date[2] = 7; Month[2] = 4; Year[2] = 2004; Crime[2] = "drug offense"; Penalty[2] = "two lac ";
+    Name[3] = "Jack"; Age[3] = 45; Reg[3] = 45; Date[3] = 5; Month[3] = 5; Year[3] = 2023; Crime[3] = "Fraud";Penalty[3] = "50 lac";
+    Name[4] = "Charlie"; Age[4] = 30; Reg[4] = 453; Date[4] = 30; Month[4] = 2; Year[4] = 2011; Crime[4] = "kidnapping"; Penalty[4]="1 year in prsion" ;
+    Name[5] = "Donghae"; Age[5] = 28; Reg[5] = 437; Date[5] = 20; Month[5] = 3; Year[5] = 2024; Crime[5] = "vandalism";  Penalty[5] = "30 lac";
+    Name[6] = "Seojin "; Age[6] = 22; Reg[6] = 675; Date[6] = 16; Month[6] = 4; Year[6] = 2022; Crime[6] = "perjury";  Penalty[6] = "5 years in prison";
+    Name[7] = "Olivia "; Age[7] = 19; Reg[7] = 823; Date[7] = 19; Month[7] = 4; Year[7] = 2020; Crime[7] = "pickpocket";  Penalty[7] = "60 thousand";
+    Name[8] = "Mia "; Age[8] = 50; Reg[8] = 987; Date[8] = 25; Month[8] = 10; Year[8] = 2005; Crime[8] = "robery";  Penalty[8] = "20 lacs";
+    Name[9] = "Amelia"; Age[9] = 24; Reg[9] = 678; Date[9] = 8; Month[9] = 12; Year[9] = 2008; Crime[9] = "domestic violence";  Penalty[9] = "6 years in prison";
     }
     void virtual show(){
     	cout<<"details are"<<endl;
